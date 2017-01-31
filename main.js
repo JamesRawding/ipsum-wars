@@ -1,10 +1,5 @@
 $( document ).ready(function() {
       starWarsTitles();
-// function totalFinished(){
-//     $('.hereIsWhereTheFunIs').addClass('funTimesVisible');
-//     $('.webTeamMemberContainer').css('min-height', '0');
-  
-// }
 
 function starWarsTitles(){
     var starWarsScrollHeight = $('.hereIsWhereTheFunIs').height();
