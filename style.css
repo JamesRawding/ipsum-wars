@@ -39,8 +39,8 @@
     display: block;
     margin: 0 auto;
     overflow: hidden;
-    
-    
+
+
 }
 
 .starWarsScrollContainer{
@@ -50,12 +50,12 @@
     height: 100%;
     position:relative;
     display:none;
-    
+
 }
 
 .starWarsContainerText{
     position:absolute;
- 
+
 }
 
 p{
@@ -64,7 +64,7 @@ p{
 }
 
 @keyframes textShrink {
-  0%   { font-size: 15vw; }
-  50% { font-size: 7vw; }
-  100% { font-size: 0vw; }
+    0%   { font-size: 15vw; }
+    50% { font-size: 7vw; }
+    100% { font-size: 0vw; }
 }
